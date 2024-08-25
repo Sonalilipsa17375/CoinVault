@@ -30,11 +30,10 @@ const Home = () => {
     <div className="home">
       <div className="hero">
         <h1>
-          Largest <br /> Crypto Marketplace
+          Crypto Marketplace
         </h1>
         <p>
-          Welcome to the worlds largest cryptocurrency marketplace. Signup to
-          explore more about cryptos.
+          Welcome to cryptocurrency marketplace.
         </p>
         <form onSubmit={search_handle}>
           <input
