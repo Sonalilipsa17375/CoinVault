@@ -33,7 +33,9 @@ const Home = () => {
           Crypto Marketplace
         </h1>
         <p>
-          Welcome to cryptocurrency marketplace.
+          Welcome to cryptocurrency marketplace. </br>
+          Search for Coins and Get Real time information.
+        
         </p>
         <form onSubmit={search_handle}>
           <input
