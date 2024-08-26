@@ -35,7 +35,7 @@ const Navbar = () => {
       <Link to={"/"}>
         <img src={logo} className="logo" alt="" />
       </Link>
-      <ul>
+{/*       <ul>
         <Link to={"/"}>
           <li>Home</li>
         </Link>
@@ -48,7 +48,7 @@ const Navbar = () => {
         <Link>
           <li>Blog</li>
         </Link>
-      </ul>
+      </ul> */}
       <div className="nav-right">
         <select onChange={curr_handler}>
           <option value="usd">USD</option>
