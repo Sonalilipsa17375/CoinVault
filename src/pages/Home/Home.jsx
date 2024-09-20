@@ -33,7 +33,7 @@ const Home = () => {
           Crypto Marketplace
         </h1>
         <p>
-          Welcome to cryptocurrency marketplace. </br>
+          Cryptoc market. 
           Search for Coins and Get Real time information.
         
         </p>
